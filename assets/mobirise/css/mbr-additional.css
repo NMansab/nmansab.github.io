@@ -1702,54 +1702,6 @@ a {
 .cid-tJS8BQovyt H6 {
   text-align: center;
 }
-.cid-tN5W9ZIws7 {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-color: #edefeb;
-}
-.cid-tN5W9ZIws7 .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-tN5W9ZIws7 .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-@media (max-width: 992px) {
-  .cid-tN5W9ZIws7 .mbr-figure {
-    margin-top: 1.5rem;
-  }
-}
-.cid-tN5W9ZIws7 .row {
-  align-items: center;
-}
-@media (min-width: 992px) {
-  .cid-tN5W9ZIws7 .text-wrapper {
-    padding: 0 2rem;
-  }
-}
-.cid-tN5W9ZIws7 .media-content,
-.cid-tN5W9ZIws7 .mbr-figure {
-  align-self: center;
-}
-.cid-tN5W9ZIws7 .mbr-figure iframe {
-  width: 100%;
-  border-radius: 2rem;
-  overflow: hidden;
-}
-.cid-tN5W9ZIws7 .mbr-figure {
-  border-radius: 0rem;
-  overflow: hidden;
-}
-@media (min-width: 767px) {
-  .cid-tN5W9ZIws7 .mbr-figure {
-    border-radius: 2rem;
-  }
-}
 .cid-tJS9pBcTSa {
   padding-top: 6rem;
   padding-bottom: 6rem;
@@ -1882,4 +1834,47 @@ a {
 }
 .cid-tJS9NNcTLZ .mbr-section-title {
   color: #ffffff;
+}
+.cid-tO8c2YrSXH {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #2e481a;
+}
+.cid-tO8c2YrSXH .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tO8c2YrSXH .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  bottom: 0;
+}
+.cid-tO8c2YrSXH .topbg {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 30%;
+  background: #edefeb;
+}
+.cid-tO8c2YrSXH .mbr-section-title {
+  color: #ffffff;
+}
+.cid-tO8c2YrSXH .mbr-text,
+.cid-tO8c2YrSXH .mbr-section-btn {
+  color: #ffffff;
+}
+.cid-tO8c2YrSXH .media-content,
+.cid-tO8c2YrSXH .mbr-figure {
+  align-self: center;
+}
+.cid-tO8c2YrSXH .mbr-figure iframe {
+  width: 100%;
+  overflow: hidden;
+}
+.cid-tO8c2YrSXH .app-video-wrapper {
+  background: transparent;
 }
